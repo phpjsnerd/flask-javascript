@@ -1,6 +1,10 @@
 JavaScript Ajax Example
 =======================
 
+.. image:: https://api.codacy.com/project/badge/Grade/45dec1a1afbb4f62a1557160a07d280e
+   :alt: Codacy Badge
+   :target: https://app.codacy.com/app/phpjsnerd/flask-javascript?utm_source=github.com&utm_medium=referral&utm_content=phpjsnerd/flask-javascript&utm_campaign=Badge_Grade_Settings
+
 Demonstrates how to post form data and process a JSON response using
 JavaScript. This allows making requests without navigating away from the
 page. Demonstrates using |XMLHttpRequest|_, |fetch|_, and
