@@ -25,6 +25,7 @@ setup(
             'pytest',
             'coverage',
             'blinker',
+            'codecov'
         ],
     },
 )
